@@ -1,0 +1,44 @@
+body{
+    background: skyblue;
+    box-sizing: border-box;
+    border: 4px solid limegreen;
+    margin: 20px;
+    padding: 20px;
+    color:mintcream;
+    font-family: sans-serif;
+}
+
+h1, nav{
+    text-align: center;
+    color:mediumslateblue;
+}
+
+h1{
+    font-style: italic;
+    color:mintcream;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: normal;
+}
+
+span{
+    color:mintcream;
+    font-weight: bold;
+}
+
+img{
+    float:right;
+    width: 30%;
+}
+
+.link{
+    color: limegreen;
+    font-weight: bold;
+}
+
+p{
+    font-family: serif;
+}
+
+footer{
+    margin: 20px 0;
+}
